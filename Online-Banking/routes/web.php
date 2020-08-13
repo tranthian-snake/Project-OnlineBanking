@@ -55,3 +55,7 @@ Route::get('/careers', function () {
 Route::get('/community', function () {
     return view('content.community');
 });
+
+Route::get('/faq', function () {
+    return view('content.faq');
+});

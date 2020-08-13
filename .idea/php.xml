@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/composer" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/jeremeamia/superclosure" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/Online-Banking/vendor/sebastian/diff" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/Online-Banking/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

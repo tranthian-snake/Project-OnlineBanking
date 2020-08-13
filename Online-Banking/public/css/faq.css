@@ -1,0 +1,129 @@
+/*Intro*/
+.intro{
+    margin-top: 2rem;
+    background-image: url("../images/faq(ảnh nền).jpg");
+    height: 600px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: fixed;
+}
+
+.intro-content{
+    margin: 10rem;
+    padding: 12rem 0 0 1rem;
+}
+
+.intro-content h1{
+    color: white;
+    font-size: 3.5rem;
+    line-height: 4rem;
+    font-weight: bold;
+    margin-bottom: 4.5rem;
+}
+
+.intro-content h2{
+    color: #d7d6d6;
+    font-size: 2.5rem;
+    line-height: 3rem;
+    margin: 1.5rem 0;
+    text-align: justify;
+}
+
+.intro-content button{
+    color: white;
+    background-color: #2991cc;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 2.5rem;
+    border: solid 1px #2991cc;
+}
+
+.intro-content button:hover{
+    background-color: #145d8e;
+    border: solid 1px #145d8e;
+}
+
+/*Web Content*/
+.body{
+    margin-top: 5rem;
+}
+.body .body-content{
+    background-color: rgba(222, 219, 219, 0.21);
+    border-radius: 5px;
+    margin-bottom: 2rem;
+    height: 250px;
+}
+
+.body .body-content:focus{
+    background-color: rgba(222, 219, 219, 0.73);
+}
+.body .body-content h3{
+    color: darkblue;
+    font-size: 2rem;
+    line-height: 3rem;
+    font-weight: bold;
+}
+.body .body-content p{
+    color: #2a2929;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.body-content-hidden h3{
+    color: darkblue;
+    font-size: 2rem;
+    line-height: 3rem;
+    font-weight: bold;
+    margin-top: 3rem;
+}
+.body-content-hidden p{
+    color: #2a2929;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-bottom: 5rem;
+}
+a{
+    font-weight: bold;
+}
+
+.body button{
+    color: white;
+    background-color: #2991cc;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 2.5rem;
+    border: solid 1px #2991cc;
+    margin:auto;
+    display:block;
+}
+
+.body button:hover{
+    background-color: #145d8e;
+    border: solid 1px #145d8e;
+}
+
+.c-contact-table{
+    width: 80%;
+    display:block;
+    margin-top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.c-contact-table tr th{
+    width: 300px;
+    height: 4rem;
+    background-color: rgba(222, 219, 219, 0.6);
+    padding-left: 1rem;
+}
+.c-contact-table tr td{
+    height: 4rem;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.41);
+    padding-left: 1rem;
+}
